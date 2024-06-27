@@ -11,7 +11,8 @@ Download the latest release for your platform from the releases page. No additio
 To use the Common Key Finder, you need to provide the JSON files as arguments. You can also specify the name of the output Excel file where the common keys will be saved. If not specified, the default output file name is `CommonKeys.xlsx`.
 
 ```bash
-json-common-key-finder --output=name_of_file.xlsx file1.json file2.json ...```
+json-common-key-finder --output=name_of_file.xlsx file1.json file2.json ...`
+```
 
 ## If no input files are provided, the tool will display a usage message:
 ``No input files provided. Usage: common-key-finder --output=name_of_file.xlsx file1.json file2.json ...``
