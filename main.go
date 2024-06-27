@@ -12,7 +12,7 @@ func main() {
 
 	files := flag.Args()
 	if len(files) == 0 {
-		fmt.Println("No input files provided. Usage: common-key-finder --output=name_of_file.xlsx file1.json file2.json ...")
+		fmt.Println("No input files provided. Usage: json-common-key-finder --output=name_of_file.xlsx file1.json file2.json ...")
 		return
 	}
 
