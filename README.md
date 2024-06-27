@@ -4,7 +4,8 @@ This tool is designed to find common keys across multiple JSON files and save th
 
 ## Installation
 
-Download the latest release for your platform from the releases page. No additional installation steps are required; just download and run the executable.
+Download the latest release for your platform from the [releases page](https://github.com/prabeshmagar/json-common-key-finder/releases). No additional installation steps are required; just download and run the executable.
+
 
 ## Usage
 
